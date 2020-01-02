@@ -1,2 +1,3 @@
 # hello-world
-Ideas and resources
+
+This repository is meant to store ideas and resources.
